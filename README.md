@@ -41,6 +41,14 @@ The following components will be added iteratively:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Seismic-Analysis-with-Python-and-ML.git
+   git clone https://github.com/promisekeh/Seismic-Analysis-with-Python-and-ML.git
    cd Seismic-Analysis-with-Python-and-ML
 
+## 📚 Citation
+
+If you use this repository, code, or dataset, please cite the following paper:
+
+> **Alaudah, Y., Michałowicz, P., Alfarraj, M., & AlRegib, G. (2019).**  
+> *A machine-learning benchmark for facies classification*.  
+> **Interpretation**, 7(3), SE175–SE187.  
+> https://doi.org/10.1190/INT-2018-0249.1
